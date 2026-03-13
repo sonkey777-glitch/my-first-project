@@ -1,0 +1,453 @@
+AI Top 20 카테고리
+
+웹사이트에서 사용할 수 있는 AI 카테고리 예시입니다.
+
+Text Generation (텍스트 생성)
+
+Image Generation (이미지 생성)
+
+Video Generation (영상 생성)
+
+Audio / Music Generation
+
+Voice AI / Speech
+
+AI Chatbots
+
+AI Coding Assistants
+
+AI Translation
+
+AI Writing Assistants
+
+AI Design Tools
+
+AI Presentation Tools
+
+AI Marketing Tools
+
+AI SEO Tools
+
+AI Data Analysis
+
+AI Research Tools
+
+AI Education / Learning
+
+AI Productivity Tools
+
+AI Automation Agents
+
+AI 3D Generation
+
+AI Business Tools
+
+
+------------------
+
+Text Generation 카테고리 (AI 이름 20개)
+
+웹사이트 Top 20 리스트용으로 사용할 수 있는 이름입니다.
+
+ChatGPT
+
+Claude
+
+Gemini
+
+Grok
+
+Jasper AI
+
+Copy.ai
+
+Writesonic
+
+Rytr
+
+Sudowrite
+
+Notion AI
+
+QuillBot
+
+HyperWrite
+
+Wordtune
+
+Anyword
+
+Peppertype AI
+
+Scalenut
+
+TextCortex
+
+Frase AI
+
+Simplified AI
+
+Writer AI
+
+------------------
+
+AI Top 20
+
+├ Text Generation
+│   ├ ChatGPT
+│   ├ Claude
+│   ├ Gemini
+│   └ ... 20개
+│
+├ Image Generation
+├ Video Generation
+├ Music Generation
+├ Coding AI
+└ ... 20 categories
+
+---------------
+
+2. Image Generation
+
+1 Midjourney
+2 DALL·E
+3 Stable Diffusion
+4 Leonardo AI
+5 Adobe Firefly
+6 Ideogram
+7 Playground AI
+8 DreamStudio
+9 BlueWillow
+10 Mage AI
+11 Lexica
+12 NightCafe
+13 Artbreeder
+14 Deep Dream Generator
+15 Craiyon
+16 Bing Image Creator
+17 Imagine AI
+18 Krea AI
+19 Recraft AI
+20 StarryAI
+
+3. Video Generation
+
+1 Runway
+2 Pika
+3 Sora
+4 Synthesia
+5 HeyGen
+6 Colossyan
+7 D-ID
+8 Elai
+9 Invideo AI
+10 Luma AI
+11 Kaiber
+12 Genmo
+13 Peech
+14 Rephrase AI
+15 DeepBrain AI
+16 Hour One
+17 Tavus
+18 Fliki
+19 Vidnoz AI
+20 Animoto AI
+
+4. Audio / Music Generation
+
+1 Suno
+2 Udio
+3 Soundraw
+4 Boomy
+5 AIVA
+6 Amper Music
+7 Beatoven
+8 Loudly
+9 Splash Pro
+10 Voicemod AI
+11 MusicLM
+12 Stable Audio
+13 Soundful
+14 Ecrett Music
+15 Mubert
+16 Orb Producer
+17 Riffusion
+18 Harmonai
+19 Songburst
+20 Soundverse
+
+----------------
+
+전체 사이트 구조 (Site Structure)
+
+Home
+│
+├ Top 20 AI Overall
+│
+├ Categories
+│   ├ Text Generation
+│   ├ Image Generation
+│   ├ Video Generation
+│   ├ Music Generation
+│   ├ Voice AI
+│   ├ AI Chatbots
+│   ├ Coding AI
+│   ├ AI Writing
+│   ├ AI Marketing
+│   ├ AI Design
+│   ├ AI Presentation
+│   ├ AI SEO
+│   ├ AI Research
+│   ├ AI Productivity
+│   ├ AI Automation
+│   ├ AI Translation
+│   ├ AI Education
+│   ├ AI Data Analysis
+│   ├ AI 3D Generation
+│   └ AI Business Tools
+│
+├ Trending AI
+│
+├ New AI Tools
+│
+├ Submit AI Tool
+│
+└ Blog / News
+
+-----------------
+id,name,category,rank,website
+1,ChatGPT,Text Generation,1,https://chat.openai.com
+2,Claude,Text Generation,2,https://claude.ai
+3,Gemini,Text Generation,3,https://gemini.google.com
+4,Grok,Text Generation,4,https://x.ai
+5,Jasper,Text Generation,5,https://jasper.ai
+6,Copy.ai,Text Generation,6,https://copy.ai
+7,Writesonic,Text Generation,7,https://writesonic.com
+8,Rytr,Text Generation,8,https://rytr.me
+9,Sudowrite,Text Generation,9,https://sudowrite.com
+10,Notion AI,Text Generation,10,https://notion.so
+11,Midjourney,Image Generation,1,https://midjourney.com
+12,DALL-E,Image Generation,2,https://openai.com
+13,Stable Diffusion,Image Generation,3,https://stability.ai
+14,Leonardo AI,Image Generation,4,https://leonardo.ai
+15,Adobe Firefly,Image Generation,5,https://firefly.adobe.com
+16,Runway,Video Generation,1,https://runwayml.com
+17,Pika,Video Generation,2,https://pika.art
+18,Sora,Video Generation,3,https://openai.com
+19,Synthesia,Video Generation,4,https://synthesia.io
+20,HeyGen,Video Generation,5,https://heygen.com
+
+------------------
+/category/text-generation
+-------------
+Title: Top 20 Text Generation AI
+
+1 ChatGPT
+2 Claude
+3 Gemini
+4 Grok
+5 Jasper
+6 Copy.ai
+7 Writesonic
+8 Rytr
+9 Sudowrite
+10 Notion AI
+11 QuillBot
+12 HyperWrite
+13 Wordtune
+14 Anyword
+15 Peppertype
+16 Scalenut
+17 TextCortex
+18 Frase
+19 Simplified
+20 Writer
+
+------------------
+
+/ai/chatgpt
+/ai/claude
+/ai/gemini
+
+----------
+
+AI Name
+ChatGPT
+
+Category
+Text Generation
+
+Description
+AI chatbot and text generation model developed by OpenAI.
+
+Features
+- Chat
+- Content writing
+- Coding help
+- Research
+
+Pricing
+Free / Plus / Team
+
+Website
+https://chat.openai.com
+
+Ranking
+#1 in Text Generation
+
+-----------
+
+데이터베이스 구조 (Database Structure)
+
+AI 랭킹 사이트에서 사용하는 기본 DB 구조입니다.
+
+Table: categories
+
+---------------
+id
+name
+slug
+description
+
+-----------
+1  Text Generation   text-generation
+2  Image Generation  image-generation
+3  Video Generation  video-generation
+
+
+-----------
+id
+name
+slug
+category_id
+description
+website
+logo
+rank
+created_at
+--------------
+
+1 ChatGPT chatgpt 1
+2 Claude claude 1
+3 Midjourney midjourney 2
+
+----------
+
+Hero Section
+"Discover the Top AI Tools"
+
+Top 20 AI Overall
+
+Trending AI Tools
+
+Top Categories
+
+Text Generation
+Image Generation
+Video Generation
+Coding AI
+Marketing AI
+
+Latest AI Tools
+
+Newsletter
+
+-----------
+
+site.com/
+
+site.com/category/text-generation
+
+site.com/category/image-generation
+
+site.com/ai/chatgpt
+
+site.com/ai/midjourney
+
+-----------------
+[
+  {
+    "id": 1,
+    "name": "ChatGPT",
+    "category": "Text Generation",
+    "rank": 1,
+    "website": "https://chat.openai.com"
+  },
+  {
+    "id": 2,
+    "name": "Claude",
+    "category": "Text Generation",
+    "rank": 2,
+    "website": "https://claude.ai"
+  },
+  {
+    "id": 3,
+    "name": "Gemini",
+    "category": "Text Generation",
+    "rank": 3,
+    "website": "https://gemini.google.com"
+  },
+  {
+    "id": 4,
+    "name": "Midjourney",
+    "category": "Image Generation",
+    "rank": 1,
+    "website": "https://midjourney.com"
+  },
+  {
+    "id": 5,
+    "name": "Runway",
+    "category": "Video Generation",
+    "rank": 1,
+    "website": "https://runwayml.com"
+  }
+]
+----------------
+
+CREATE TABLE categories (
+ id INT PRIMARY KEY,
+ name VARCHAR(100),
+ slug VARCHAR(100)
+);
+-------------
+CREATE TABLE categories (
+ id INT PRIMARY KEY,
+ name VARCHAR(100),
+ slug VARCHAR(100)
+);
+------------
+INSERT INTO categories VALUES
+(1,'Text Generation','text-generation'),
+(2,'Image Generation','image-generation'),
+(3,'Video Generation','video-generation');
+-------------
+CREATE TABLE ai_tools (
+ id INT PRIMARY KEY,
+ name VARCHAR(100),
+ category_id INT,
+ rank INT,
+ website VARCHAR(255),
+ FOREIGN KEY (category_id) REFERENCES categories(id)
+);
+------------------
+INSERT INTO ai_tools VALUES
+(1,'ChatGPT',1,1,'https://chat.openai.com'),
+(2,'Claude',1,2,'https://claude.ai'),
+(3,'Gemini',1,3,'https://gemini.google.com'),
+(4,'Midjourney',2,1,'https://midjourney.com'),
+(5,'Runway',3,1,'https://runwayml.com');
+-----------------
+추천 데이터 구조 (AI 디렉토리용)
+
+웹사이트 만들 때 이 필드가 가장 좋습니다.
+id
+name
+category
+rank
+description
+website
+logo
+pricing
+tags
+created_at
+----------------------
